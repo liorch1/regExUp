@@ -1,7 +1,7 @@
 #############################################################################################################
 ##############################################18.12.2017
 #############################################################################################################
-A) create a project on github called, regExUp.
+
 1.a. create a script that will take a list of users and will add them to your system.
   b. the script should have a validation function: it will check if user with that username or nickname exists.(use regex)
   c. if user exists, script will stop and it will give grandiouse output that user or nickname already exists.
